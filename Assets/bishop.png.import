@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bo4itqhco8yid"
-path="res://.godot/imported/chess_clean.png-1f9c6e03632800f60d6b3dc7dba1b4c7.ctex"
+uid="uid://cw564y105u427"
+path="res://.godot/imported/bishop.png-877262cd37a8a962b39160918d4e9b23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/chess_clean.png"
-dest_files=["res://.godot/imported/chess_clean.png-1f9c6e03632800f60d6b3dc7dba1b4c7.ctex"]
+source_file="res://Assets/bishop.png"
+dest_files=["res://.godot/imported/bishop.png-877262cd37a8a962b39160918d4e9b23.ctex"]
 
 [params]
 
